@@ -1,9 +1,9 @@
 <?php
 // Database connection settings
-$servername = "localhost";
-$username = "root";
-$password = ""; // Replace with your database password
-$dbname = "support_system";
+$servername = "sql108.infinityfree.com";
+$username = "if0_37625929";
+$password = "MOTUlulu1 "; // Replace with your database password
+$dbname = "if0_37625929_lagtrx";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password, $dbname);
